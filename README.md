@@ -17,8 +17,8 @@ and Algorithms using Python.
 | Metric | Progress |
 |---|---:|
 | Total Days | 365 |
-| Completed | 0 |
-| Remaining | 365 |
+| Completed | 2 |
+| Remaining | 363 |
 | Language | Python |
 
 ## 📚 Learning Roadmap
